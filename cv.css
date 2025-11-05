@@ -232,6 +232,10 @@ header{
         width: 120px;
         margin-left: 0;
 
+        #email{
+            font-size: 8px;
+        }
+
         h3{
             margin-top: 10px;
             font-size: 12px;
@@ -303,7 +307,7 @@ header{
 
             h3{
                 width: max-content;
-                font-size: 15px;
+                font-size: 13px;
             }
         }
         
