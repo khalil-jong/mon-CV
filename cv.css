@@ -9,6 +9,7 @@ body{
     border-top-right-radius: 12px;
     background-color: #ffffff;
     font-family: serif;
+    min-width: 987px;
 }
 
 header{
@@ -66,6 +67,7 @@ header{
             margin-left: 20px;
             img{
                 border-radius: 13px;
+                box-shadow: 3px 3px 3px gray;
             }
         }
     }
